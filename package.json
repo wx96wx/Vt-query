@@ -1,0 +1,11 @@
+{
+  "name": "vt-web",
+  "version": "1.0.0",
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "ioredis": "latest",
+    "node-fetch": "latest"
+  }
+}
