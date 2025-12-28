@@ -22,7 +22,7 @@ export default function Home() {
         value={hash}
         onChange={e => setHash(e.target.value)}
         placeholder="输入文件 hash"
-        style={{ width: "300px", padding: "8px" }}
+        style={{ width: "600px", padding: "8px" }}
       />
       <button onClick={submit} style={{ padding: "8px 14px", marginLeft: "10px" }}>
         查询
